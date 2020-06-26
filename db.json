@@ -13,7 +13,7 @@
       {
         "name": "Content3",
         "url": "https://delta19tatasky.akamaized.net/out/vod/v1/PKTS2020022010083105_smil/i/168588.mpd",
-        "license": "https://tatasky.stage.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=2741_2974&SessionId=851E012EDEB30919&Ticket=6C917D6B843BE0DA"
+         "license": "https://tatasky.stage.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=2741_2974&SessionId=851E012EDEB30919&Ticket=6C917D6B843BE0DA"
       }
   ]
 }
