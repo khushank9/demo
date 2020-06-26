@@ -1,14 +1,14 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    {
+        "name": "Content1",
+        "url": "https://delta19tatasky.akamaized.net/out/vod/v1/PKTS2020031710081132_smil/i/24.mpd",
+        "license":"https://tatasky.stage.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=19376_19691&SessionId=13DCDE445493A6C2&Ticket=DB63236AA01F1F78"
+      },
+      {
+        "name": "Content1",
+        "url": "https://delta19tatasky.akamaized.net/out/vod/v1/PKTS2020032310085103_smil/i/24.mpd",
+        "license": "https://tatasky.stage.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=19379_19694&SessionId=13DCDE445493A6C2&Ticket=DB63236AA01F1F78"
+      }
+  ]
 }
