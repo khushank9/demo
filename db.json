@@ -9,6 +9,26 @@
         "name": "Content2",
         "url": "https://delta19tatasky.akamaized.net/out/vod/v1/PKTS2020032310085103_smil/i/24.mpd",
         "license": "https://tatasky.stage.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=19379_19694&SessionId=13DCDE445493A6C2&Ticket=DB63236AA01F1F78"
+      },
+      {
+        "name": "Content3",
+        "url": "https://delta19tatasky.akamaized.net/out/vod/v1/PKTS2020022010083105_smil/i/168588.mpd",
+        "license": "https://tatasky.stage.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=2741_2974&SessionId=851E012EDEB30919&Ticket=6C917D6B843BE0DA"
+      },
+    {
+        "name": "Content4",
+        "url": "https://delta19tatasky.akamaized.net/out/vod/v1/PKTS2020031710081132_smil/i/24.mpd",
+        "license":"https://tatasky.stage.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=19376_19691&SessionId=13DCDE445493A6C2&Ticket=DB63236AA01F1F78"
+      },
+      {
+        "name": "Content5",
+        "url": "https://delta19tatasky.akamaized.net/out/vod/v1/PKTS2020032310085103_smil/i/24.mpd",
+        "license": "https://tatasky.stage.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=19379_19694&SessionId=13DCDE445493A6C2&Ticket=DB63236AA01F1F78"
+      },
+      {
+        "name": "Content6",
+        "url": "https://delta19tatasky.akamaized.net/out/vod/v1/PKTS2020022010083105_smil/i/168588.mpd",
+        "license": "https://tatasky.stage.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=2741_2974&SessionId=851E012EDEB30919&Ticket=6C917D6B843BE0DA"
       }
   ]
 }
