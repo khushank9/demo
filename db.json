@@ -3,12 +3,14 @@
     {
         "name": "Content1",
         "url": "https://delta19tatasky.akamaized.net/out/vod/v1/PKTS2020031710081132_smil/i/24.mpd",
-        "license":"https://tatasky.stage.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=19376_19691&SessionId=13DCDE445493A6C2&Ticket=DB63236AA01F1F78"
+        "license":"https://tatasky.stage.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=19376_19691&SessionId=13DCDE445493A6C2&Ticket=DB63236AA01F1F78",
+        "enforce":null
       },
       {
         "name": "Content2",
         "url": "https://delta19tatasky.akamaized.net/out/vod/v1/PKTS2020032310085103_smil/i/24.mpd",
-        "license": "https://tatasky.stage.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=19379_19694&SessionId=13DCDE445493A6C2&Ticket=DB63236AA01F1F78"
+        "license": "https://tatasky.stage.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=19379_19694&SessionId=13DCDE445493A6C2&Ticket=DB63236AA01F1F78",
+        "enforce":true
       },
       {
         "name": "Content3",
