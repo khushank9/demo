@@ -1,21 +1,29 @@
-{
-  "posts": [
-    {
-        "name": "Content1",
-        "url": "https://delta19tatasky.akamaized.net/out/vod/v1/PKTS2020031710081132_smil/i/24.mpd",
-        "license":"https://tatasky.stage.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=19376_19691&SessionId=13DCDE445493A6C2&Ticket=DB63236AA01F1F78",
-        "enforce":null
-      },
-      {
-        "name": "Content2",
-        "url": "https://delta19tatasky.akamaized.net/out/vod/v1/PKTS2020032310085103_smil/i/24.mpd",
-        "license": "https://tatasky.stage.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=19379_19694&SessionId=13DCDE445493A6C2&Ticket=DB63236AA01F1F78",
-        "enforce":true
-      },
-      {
-        "name": "Content3",
-        "url": "https://delta19tatasky.akamaized.net/out/vod/v1/PKTS2020022010083105_smil/i/168588.mpd",
-         "license": "https://tatasky.stage.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=2741_2974&SessionId=851E012EDEB30919&Ticket=6C917D6B843BE0DA"
-      }
-  ]
-}
+[
+  {
+    "id": 1,
+    "title": "SET HD",
+    "boxCoverImage": "http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-45-j5fca63k-v2/imageContent-45-j5fca63k-m3.jpg",
+    "posterImage": "http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44-j5fca5bs-v2/imageContent-44-j5fca5bs-m3.jpg",
+    "thumbnailImage": "http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v2/imageContent-43-j5fca4k0-m3.png",
+    "playURL": "https://delta19tatasky.akamaized.net/out/i/159674.mpd",
+    "licenseURL": "https://tatasky.stage.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000139"
+  },
+  {
+    "id": 2,
+    "title": "France 24",
+    "boxCoverImage": "http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-433-j5jsyz6o-v1/imageContent-433-j5jsyz6o-m1.jpg",
+    "posterImage": "http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-434-j5jsyz6o-v1/imageContent-434-j5jsyz6o-m1.jpg",
+    "thumbnailImage": "http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-435-j5jsyz6o-v1/imageContent-435-j5jsyz6o-m1.png",
+    "playURL": "https://delta19tatasky.akamaized.net/out/i/159674.mpd",
+    "licenseURL": "https://tatasky.stage.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000139"
+  },
+  {
+    "id": 3,
+    "title": "DD National",
+    "boxCoverImage": "http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-793-j5m7axrc-v1/imageContent-793-j5m7axrc-m1.jpg",
+    "posterImage": "http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-794-j5m7axrc-v1/imageContent-794-j5m7axrc-m1.jpg",
+    "thumbnailImage": "http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-795-j5m7axrc-v1/imageContent-795-j5m7axrc-m1.png",
+    "playURL": "https://delta19tatasky.akamaized.net/out/i/159674.mpd",
+    "licenseURL": "https://tatasky.stage.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000139"
+  }
+]
