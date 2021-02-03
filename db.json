@@ -6,8 +6,8 @@
       "boxCoverImage": "http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-45-j5fca63k-v2/imageContent-45-j5fca63k-m3.jpg",
       "posterImage": "http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44-j5fca5bs-v2/imageContent-44-j5fca5bs-m3.jpg",
       "thumbnailImage": "http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v2/imageContent-43-j5fca4k0-m3.png",
-      "playURL": "https://delta19tatasky.akamaized.net/out/i/159674.mpd",
-      "licenseURL": "https://tatasky.stage.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000139"
+      "playURL": "https://tataskylinear.pc.cdn.bitgravity.com/delta20/out/i/49.mpd",
+      "licenseURL": "https://tatasky.stage.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000171"
     },
     {
       "id": 2,
@@ -15,8 +15,8 @@
       "boxCoverImage": "http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-433-j5jsyz6o-v1/imageContent-433-j5jsyz6o-m1.jpg",
       "posterImage": "http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-434-j5jsyz6o-v1/imageContent-434-j5jsyz6o-m1.jpg",
       "thumbnailImage": "http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-435-j5jsyz6o-v1/imageContent-435-j5jsyz6o-m1.png",
-      "playURL": "https://delta19tatasky.akamaized.net/out/i/159674.mpd",
-      "licenseURL": "https://tatasky.stage.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000139"
+      "playURL": "https://tataskylinear.pc.cdn.bitgravity.com/delta20/out/i/49.mpd",
+      "licenseURL": "https://tatasky.stage.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000171"
     },
     {
       "id": 3,
@@ -24,8 +24,8 @@
       "boxCoverImage": "http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-793-j5m7axrc-v1/imageContent-793-j5m7axrc-m1.jpg",
       "posterImage": "http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-794-j5m7axrc-v1/imageContent-794-j5m7axrc-m1.jpg",
       "thumbnailImage": "http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-795-j5m7axrc-v1/imageContent-795-j5m7axrc-m1.png",
-      "playURL": "https://delta19tatasky.akamaized.net/out/i/159674.mpd",
-      "licenseURL": "https://tatasky.stage.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000139"
+      "playURL": "https://tataskylinear.pc.cdn.bitgravity.com/delta20/out/i/49.mpd",
+      "licenseURL": "https://tatasky.stage.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000171"
     }
   ]
 }
