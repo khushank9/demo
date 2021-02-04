@@ -8,7 +8,11 @@
       "thumbnailImage": "http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v2/imageContent-43-j5fca4k0-m3.png",
       "playURL": "https://tataskylinear.pc.cdn.bitgravity.com/delta20/out/i/49.mpd",
       "licenseURL": "https://tatasky.stage.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000171",
-      "contentType": "LIVE"
+      "contentType": "LIVE",
+      "epgTitle":"Best of Crime Patrol",
+      "startTime": 1612425600000,
+      "endTime": 1612429200000,
+      "description": "Talented comedians from across Maharashtra use satire, skits and sketches to entertain the audience as they compete for the top prize. E99."
     },
     {
       "id": 2,
@@ -18,7 +22,11 @@
       "thumbnailImage": "http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-435-j5jsyz6o-v1/imageContent-435-j5jsyz6o-m1.png",
       "playURL": "https://tataskylinear.pc.cdn.bitgravity.com/delta20/out/i/49.mpd",
       "licenseURL": "https://tatasky.stage.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000171",
-      "contentType": "LIVE"
+      "contentType": "LIVE",
+      "epgTitle":"News Hour",
+      "startTime": 1612425600000,
+      "endTime": 1612429200000,
+      "description": "Talented comedians from across Maharashtra use satire, skits and sketches to entertain the audience as they compete for the top prize. E99."
     },
     {
       "id": 3,
@@ -28,7 +36,11 @@
       "thumbnailImage": "http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-795-j5m7axrc-v1/imageContent-795-j5m7axrc-m1.png",
       "playURL": "https://tataskylinear.pc.cdn.bitgravity.com/delta20/out/i/49.mpd",
       "licenseURL": "https://tatasky.stage.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000171",
-      "contentType": "LIVE"
+      "contentType": "LIVE",
+      "epgTitle":"Desh Ki News",
+      "startTime": 1612425600000,
+      "endTime": 1612429200000,
+      "description": "While Susheela is about to audition for a movie in Mumbai, Jagat shows Dharampal a video of her running away from the house. E58."
     }
   ]
 }
