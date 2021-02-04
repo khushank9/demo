@@ -9,7 +9,7 @@
       "playURL": "https://tataskylinear.pc.cdn.bitgravity.com/delta20/out/i/49.mpd",
       "licenseURL": "https://tatasky.stage.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000171",
       "contentType": "LIVE",
-      "epgTitle":"Best of Crime Patrol",
+      "epgTitle": "Best of Crime Patrol",
       "startTime": 1612425600000,
       "endTime": 1612429200000,
       "description": "Talented comedians from across Maharashtra use satire, skits and sketches to entertain the audience as they compete for the top prize. E99."
@@ -23,7 +23,7 @@
       "playURL": "https://tataskylinear.pc.cdn.bitgravity.com/delta20/out/i/49.mpd",
       "licenseURL": "https://tatasky.stage.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000171",
       "contentType": "LIVE",
-      "epgTitle":"News Hour",
+      "epgTitle": "News Hour",
       "startTime": 1612425600000,
       "endTime": 1612429200000,
       "description": "Talented comedians from across Maharashtra use satire, skits and sketches to entertain the audience as they compete for the top prize. E99."
@@ -37,10 +37,54 @@
       "playURL": "https://tataskylinear.pc.cdn.bitgravity.com/delta20/out/i/49.mpd",
       "licenseURL": "https://tatasky.stage.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000171",
       "contentType": "LIVE",
-      "epgTitle":"Desh Ki News",
+      "epgTitle": "Desh Ki News",
       "startTime": 1612425600000,
       "endTime": 1612429200000,
       "description": "While Susheela is about to audition for a movie in Mumbai, Jagat shows Dharampal a video of her running away from the house. E58."
+    }
+  ],
+  "listVOD": [
+    {
+      "id": 1,
+      "title": "chef",
+      "boxCoverImage": "http://tank.tskytech.com/jumpstart/Temp/cdn/HLS/VOD/imageContent-54616-kjy8m2l4-v1/imageContent-54616-kjy8m2l4-m1.jpg",
+      "posterImage": "http://tank.tskytech.com/jumpstart/Temp/cdn/HLS/VOD/imageContent-54617-kjy8m2l4-v1/imageContent-54617-kjy8m2l4-m1.jpg",
+      "thumbnailImage": "http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v2/imageContent-43-j5fca4k0-m3.png",
+      "playURL": "https://tataskylinear.pc.cdn.bitgravity.com/delta20/out/i/49.mpd",
+      "licenseURL": "https://tatasky.stage.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000171",
+      "contentType": "MOVIES",
+      "duration": 108,
+      "genre": "Comedy",
+      "description": "After losing his job, Chef Carl Casper attempts to start afresh by fixing up a food truck."
+    },
+    {
+      "id": 1,
+      "title": "chef 2",
+      "boxCoverImage": "http://tank.tskytech.com/jumpstart/Temp/cdn/HLS/VOD/imageContent-54616-kjy8m2l4-v1/imageContent-54616-kjy8m2l4-m1.jpg",
+      "posterImage": "http://tank.tskytech.com/jumpstart/Temp/cdn/HLS/VOD/imageContent-54617-kjy8m2l4-v1/imageContent-54617-kjy8m2l4-m1.jpg",
+      "thumbnailImage": "http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v2/imageContent-43-j5fca4k0-m3.png",
+      "playURL": "https://tataskylinear.pc.cdn.bitgravity.com/delta20/out/i/49.mpd",
+      "licenseURL": "https://tatasky.stage.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000171",
+      "contentType": "MOVIES",
+      "duration": 108,
+      "genre": "Comedy",
+      "description": "After losing his job, Chef Carl Casper attempts to start afresh by fixing up a food truck."
+    }
+  ],
+  "homescreen": [
+    {
+      "id": 1,
+      "title": "Entertainment Channels",
+      "sectionType": "GENERE",
+      "filter": "listChannels",
+      "contentType": "LIVE"
+    },
+    {
+      "id": 2,
+      "title": "New Channels",
+      "sectionType": "GENERE",
+      "filter": "listVOD",
+      "contentType": "VOD"
     }
   ]
 }
