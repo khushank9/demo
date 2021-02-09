@@ -50,8 +50,8 @@
       "boxCoverImage": "http://tank.tskytech.com/jumpstart/Temp/cdn/HLS/VOD/imageContent-54616-kjy8m2l4-v1/imageContent-54616-kjy8m2l4-m1.jpg",
       "posterImage": "http://tank.tskytech.com/jumpstart/Temp/cdn/HLS/VOD/imageContent-54617-kjy8m2l4-v1/imageContent-54617-kjy8m2l4-m1.jpg",
       "thumbnailImage": "http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v2/imageContent-43-j5fca4k0-m3.png",
-      "playURL": "https://tataskylinear.pc.cdn.bitgravity.com/delta20/out/i/49.mpd",
-      "licenseURL": "https://tatasky.stage.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000171",
+      "playURL": "https://delta19tatasky.akamaized.net/out/vod/v1/PKTS2020032310085103_smil/i/24.mpd",
+      "licenseURL": "https://tatasky.stage.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=19379_19694",
       "contentType": "MOVIES",
       "duration": 108,
       "genre": "Comedy",
@@ -59,16 +59,16 @@
     },
     {
       "id": 1,
-      "title": "chef 2",
-      "boxCoverImage": "http://tank.tskytech.com/jumpstart/Temp/cdn/HLS/VOD/imageContent-54616-kjy8m2l4-v1/imageContent-54616-kjy8m2l4-m1.jpg",
-      "posterImage": "http://tank.tskytech.com/jumpstart/Temp/cdn/HLS/VOD/imageContent-54617-kjy8m2l4-v1/imageContent-54617-kjy8m2l4-m1.jpg",
+      "title": "Exorcism",
+      "boxCoverImage": "http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/VOD/imageContent-52955-k9zidr80-v1/imageContent-52955-k9zidr80-m1.jpg",
+      "posterImage": "http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/VOD/imageContent-52956-k9zidr80-v1/imageContent-52956-k9zidr80-m1.jpg",
       "thumbnailImage": "http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v2/imageContent-43-j5fca4k0-m3.png",
       "playURL": "https://tataskylinear.pc.cdn.bitgravity.com/delta20/out/i/49.mpd",
       "licenseURL": "https://tatasky.stage.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000171",
       "contentType": "MOVIES",
       "duration": 108,
       "genre": "Comedy",
-      "description": "After losing his job, Chef Carl Casper attempts to start afresh by fixing up a food truck."
+      "description": "Did you know that one of the world's top most horror movie - The Exorcism of Emily Rose, is a true story based on a girl names Anneliese Michael who was young and started having troubles in day to day activities and as she grew up, her condition became worst."
     }
   ],
   "homescreen": [
