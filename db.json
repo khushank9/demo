@@ -85,6 +85,34 @@
       "sectionType": "GENERE",
       "filter": "listVOD",
       "contentType": "VOD"
+    },
+    {
+      "id": 3,
+      "title": "Sports Channels",
+      "sectionType": "GENERE",
+      "filter": "listVOD",
+      "contentType": "LIVE"
+    },
+    {
+      "id": 4,
+      "title": "Devotional Channels",
+      "sectionType": "GENERE",
+      "filter": "listVOD",
+      "contentType": "LIVE"
+    },
+    {
+      "id": 5,
+      "title": "Sports Channels",
+      "sectionType": "GENERE",
+      "filter": "listVOD",
+      "contentType": "LIVE"
+    },
+    {
+      "id": 6,
+      "title": "Romantic Movies",
+      "sectionType": "GENERE",
+      "filter": "listVOD",
+      "contentType": "LIVE"
     }
   ]
 }
