@@ -102,17 +102,17 @@
     },
     {
       "id": 5,
-      "title": "Sports Channels",
+      "title": "Horror Movies",
       "sectionType": "GENERE",
       "filter": "listVOD",
-      "contentType": "LIVE"
+      "contentType": "VOD"
     },
     {
       "id": 6,
       "title": "Romantic Movies",
       "sectionType": "GENERE",
       "filter": "listVOD",
-      "contentType": "LIVE"
+      "contentType": "VOD"
     }
   ]
 }
