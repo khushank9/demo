@@ -114,5 +114,93 @@
       "filter": "listVOD",
       "contentType": "VOD"
     }
+  ],  
+  "liveScreen": [
+    {
+      "id": 1,
+      "title": "Entertainment Channels",
+      "sectionType": "GENERE",
+      "filter": "listChannels",
+      "contentType": "LIVE"
+    },
+    {
+      "id": 2,
+      "title": "New Channels",
+      "sectionType": "GENERE",
+      "filter": "listVOD",
+      "contentType": "VOD"
+    },
+    {
+      "id": 3,
+      "title": "Sports Channels",
+      "sectionType": "GENERE",
+      "filter": "listVOD",
+      "contentType": "LIVE"
+    },
+    {
+      "id": 4,
+      "title": "Devotional Channels",
+      "sectionType": "GENERE",
+      "filter": "listVOD",
+      "contentType": "LIVE"
+    },
+    {
+      "id": 5,
+      "title": "Horror Movies",
+      "sectionType": "GENERE",
+      "filter": "listVOD",
+      "contentType": "VOD"
+    },
+    {
+      "id": 6,
+      "title": "Romantic Movies",
+      "sectionType": "GENERE",
+      "filter": "listVOD",
+      "contentType": "VOD"
+    }
+  ],  
+  "vodScreen": [
+    {
+      "id": 1,
+      "title": "Entertainment Channels",
+      "sectionType": "GENERE",
+      "filter": "listChannels",
+      "contentType": "LIVE"
+    },
+    {
+      "id": 2,
+      "title": "New Channels",
+      "sectionType": "GENERE",
+      "filter": "listVOD",
+      "contentType": "VOD"
+    },
+    {
+      "id": 3,
+      "title": "Sports Channels",
+      "sectionType": "GENERE",
+      "filter": "listVOD",
+      "contentType": "LIVE"
+    },
+    {
+      "id": 4,
+      "title": "Devotional Channels",
+      "sectionType": "GENERE",
+      "filter": "listVOD",
+      "contentType": "LIVE"
+    },
+    {
+      "id": 5,
+      "title": "Horror Movies",
+      "sectionType": "GENERE",
+      "filter": "listVOD",
+      "contentType": "VOD"
+    },
+    {
+      "id": 6,
+      "title": "Romantic Movies",
+      "sectionType": "GENERE",
+      "filter": "listVOD",
+      "contentType": "VOD"
+    }
   ]
 }
