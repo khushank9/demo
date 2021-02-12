@@ -132,7 +132,7 @@
       "filter": "listVOD",
       "contentType": "VOD"
     }
-  ],  
+  ],
   "liveScreen": [
     {
       "id": 1,
@@ -169,7 +169,7 @@
       "filter": "MUSIC",
       "contentType": "LIVE"
     }
-  ],  
+  ],
   "vodScreen": [
     {
       "id": 1,
@@ -213,5 +213,130 @@
       "filter": "listVOD",
       "contentType": "VOD"
     }
-  ]
+  ],
+  "scheduleSlots": {
+    "date": 1613154600000,
+    "epgItems": [
+      {
+        "id": "30245909",
+        "provider": "SONY AATH",
+        "linearBroadcastDate": 1613160000000,
+        "linearBroadcastEndDate": 1613162400000,
+        "expiryDate": "2021-02-22T02:30:00.000Z",
+        "channelId": "285",
+        "date": "2021-02-15",
+        "title": "Mahabali Hanuman 2",
+        "summary": "Hanuman, son of Anjani 3 and Kesari, is an ardent devotee of Lord Rama. He possesses various virtuous qualities and leads an army of monkey warriors to protect the people against all evils.",
+        "genres": [
+          "Mythology"
+        ],
+        "catchUp": true,
+        "Downloadable": false,
+        "blackOut": false,
+        "rating": "0",
+        "imageUrl": "http://imagestatasky.whatsonindia.com/dasimages/landscape/1280x720/540BE51776F7E388FD2706EC46F9A1CFFE368A15A.jpg",
+        "catchupImageUrl": "http://tank.tskytech.com/jumpstart/Temp/cdn/HLS/catchupImages/300/2000_20210214T203500.000Z.jpg",
+        "eventID": "670",
+        "serviceID": "3612",
+        "dashWidewinePlayUrl": "http://192.168.0.1/1.mpd",
+        "dashWidewineLicenseUrl": "http://rrm.license.com&content=1",
+        "hlsFairPlayUrl": "https://tataskylinear.pc.cdn.bitgravity.com/delta20/out/i/102.m3u8",
+        "cmafPlayUrl": "http://13.127.147.122:8080/h264.mpd",
+        "downloadexpiryperiod": 7,
+        "length": 30,
+        "yearOfRelease": 2019,
+        "catchupPlaybackOffset": 300
+      },
+      {
+        "id": "30245925",
+        "provider": "SONY AATH",
+        "linearBroadcastDate": "1613162400000",
+        "linearBroadcastEndDate": "1613164800000",
+        "expiryDate": "2021-02-22T02:30:00.000Z",
+        "channelId": "285",
+        "genres": [
+          "Mythology"
+        ],
+        "date": "2021-02-15",
+        "title": "Indiawaali Maa",
+        "summary": "Kaku refuses to accept the serious allegations against Rohan. E119.",
+        "catchUp": true,
+        "Downloadable": false,
+        "blackOut": false,
+        "rating": "0",
+        "imageUrl": "http://imagestatasky.whatsonindia.com/dasimages/landscape/1280x720/39AE57D230209B84304E68842126EB1154723C02M.jpg",
+        "catchupImageUrl": "http://tank.tskytech.com/jumpstart/Temp/cdn/HLS/catchupImages/300/2000_20210214T203500.000Z.jpg",
+        "eventID": "670",
+        "serviceID": "3612",
+        "dashWidewinePlayUrl": "http://192.168.0.1/1.mpd",
+        "dashWidewineLicenseUrl": "http://rrm.license.com&content=1",
+        "hlsFairPlayUrl": "https://tataskylinear.pc.cdn.bitgravity.com/delta20/out/i/102.m3u8",
+        "cmafPlayUrl": "http://13.127.147.122:8080/h264.mpd",
+        "downloadexpiryperiod": 7,
+        "length": 30,
+        "yearOfRelease": 2019,
+        "catchupPlaybackOffset": 300
+      },
+      {
+        "id": "30245912",
+        "provider": "SONY AATH",
+        "linearBroadcastDate": 1613178000000,
+        "linearBroadcastEndDate": 1613179800000,
+        "expiryDate": "2021-02-22T02:30:00.000Z",
+        "channelId": "285",
+        "date": "2021-02-15",
+        "title": "Best Of The Kapil Sharma Show",
+        "summary": "The best moments from a show where ace stand-up comedian and host Kapil Sharma gets up close and personal with the invited celebrities.",
+        "catchUp": true,
+        "genres": [
+          "Mythology"
+        ],
+        "Downloadable": false,
+        "blackOut": false,
+        "rating": "0",
+        "imageUrl": "http://imagestatasky.whatsonindia.com/dasimages/landscape/1280x720/8023EAA05216655CF177D54C433D80B12240210F7.jpg",
+        "catchupImageUrl": "http://tank.tskytech.com/jumpstart/Temp/cdn/HLS/catchupImages/300/2000_20210214T203500.000Z.jpg",
+        "eventID": "670",
+        "serviceID": "3612",
+        "dashWidewinePlayUrl": "http://192.168.0.1/1.mpd",
+        "dashWidewineLicenseUrl": "http://rrm.license.com&content=1",
+        "hlsFairPlayUrl": "https://tataskylinear.pc.cdn.bitgravity.com/delta20/out/i/102.m3u8",
+        "cmafPlayUrl": "http://13.127.147.122:8080/h264.mpd",
+        "downloadexpiryperiod": 7,
+        "length": 30,
+        "yearOfRelease": 2019,
+        "catchupPlaybackOffset": 300
+      },
+      {
+        "id": "30245923",
+        "provider": "SONY AATH",
+        "linearBroadcastDate": 1613214000000,
+        "linearBroadcastEndDate": 1613221200000,
+        "expiryDate": "2021-02-22T02:30:00.000Z",
+        "channelId": "285",
+        "date": "2021-02-15",
+        "title": "Indian Idol",
+        "genres": [
+          "Mythology"
+        ],
+        "summary": "Various talented participants from India compete against each other during a singing competition in order to impress the judges and win the title. S12 E22.",
+        "catchUp": true,
+        "Downloadable": false,
+        "blackOut": false,
+        "rating": "0",
+        "imageUrl": "http://imagestatasky.whatsonindia.com/dasimages/landscape/1280x720/1F3AB10BF70722F058547FBA5889F4CBD0DB4FB4V.jpg",
+        "catchupImageUrl": "http://tank.tskytech.com/jumpstart/Temp/cdn/HLS/catchupImages/300/2000_20210214T203500.000Z.jpg",
+        "eventID": "670",
+        "serviceID": "3612",
+        "dashWidewinePlayUrl": "http://192.168.0.1/1.mpd",
+        "dashWidewineLicenseUrl": "http://rrm.license.com&content=1",
+        "hlsFairPlayUrl": "https://tataskylinear.pc.cdn.bitgravity.com/delta20/out/i/102.m3u8",
+        "cmafPlayUrl": "http://13.127.147.122:8080/h264.mpd",
+        "downloadexpiryperiod": 7,
+        "length": 30,
+        "yearOfRelease": 2019,
+        "catchupPlaybackOffset": 300
+      }
+    ]
+  }
 }
