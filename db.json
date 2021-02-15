@@ -106,7 +106,7 @@
         "provider": "SONY AATH",
         "linearBroadcastDate": 1613160000000,
         "linearBroadcastEndDate": 1613162400000,
-        "expiryDate": "2021-02-22T02:30:00.000Z",
+        "expiryDate": 1613615400000,
         "channelId": "285",
         "date": "2021-02-15",
         "title": "Mahabali Hanuman 2",
@@ -135,9 +135,9 @@
       {
         "id": "30245925",
         "provider": "SONY AATH",
-        "linearBroadcastDate": "1613162400000",
-        "linearBroadcastEndDate": "1613164800000",
-        "expiryDate": "2021-02-22T02:30:00.000Z",
+        "linearBroadcastDate": 1613162400000,
+        "linearBroadcastEndDate": 1613164800000,
+        "expiryDate": 1613615400000,
         "channelId": "285",
         "genres": [
           "Mythology"
