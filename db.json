@@ -92,10 +92,31 @@
   "homescreen": [
     {
       "id": 1,
-      "title": "Entertainment Channels",
-      "sectionType": "GENERE",
-      "filter": "listChannels",
-      "contentType": "LIVE"
+      "title": "All Channels",
+      "sectionType": "ALL",
+      "filter": "NONE",
+      "contentType": "channel"
+    },
+    {
+      "id": 2,
+      "title": "All VOD",
+      "sectionType": "ALL",
+      "filter": "NONE",
+      "contentType": "program"
+    },
+    {
+      "id": 3,
+      "title": "News Channels",
+      "sectionType": "genres",
+      "filter": "News",
+      "contentType": "channel"
+    },
+    {
+      "id": 4,
+      "title": "Music Videos",
+      "sectionType": "genres",
+      "filter": "Music",
+      "contentType": "program"
     }
   ],
   "scheduleSlots": {
