@@ -91,32 +91,71 @@
   ],
   "homescreen": [
     {
+      "id": 0,
+      "title": "Hero Banner",
+      "railType": "HERO_BANNER",
+      "layoutType": "LANDSCAPE",
+      "contentType": "banner",
+      "contentList": [
+        {
+          "id": 1594376999812,
+          "title": "ATV Hero Banner",
+          "image": "https://res.cloudinary.com/uat-main/image/upload/v1594376997/tatasky-uat/cms-ui/images/custom-content/1594376995766.jpg",
+          "contentType": "CUSTOM_ADVERTISEMENT"
+        },
+        {
+          "id": 1594376999813,
+          "title": "ATV Hero Banner",
+          "image": "https://res.cloudinary.com/uat-main/image/upload/v1619697372/tatasky-uat/cms-ui/images/custom-content/1619697370781.jpg",
+          "contentType": "CUSTOM_ADVERTISEMENT"
+        },
+        {
+          "id": 1594376999814,
+          "title": "ATV Hero Banner",
+          "image": "https://tatasky-production-cms.s3.amazonaws.com/cms-ui/images/custom-content/1617257258406",
+          "contentType": "CUSTOM_ADVERTISEMENT"
+        }
+      ]
+    },
+    {
       "id": 1,
       "title": "All Channels",
       "sectionType": "ALL",
+      "railType": "EDITORIAL",
       "filter": "NONE",
-      "contentType": "channel"
+      "contentType": "channel",
+      "layoutType": "CIRCULAR",
+      "contentList": []
     },
     {
       "id": 2,
       "title": "All VOD",
       "sectionType": "ALL",
+      "railType": "EDITORIAL",
       "filter": "NONE",
-      "contentType": "program"
+      "layoutType": "LANDSCAPE",
+      "contentType": "program",
+      "contentList": []
     },
     {
       "id": 3,
       "title": "News Channels",
       "sectionType": "genres",
+      "railType": "EDITORIAL",
+      "layoutType": "CIRCULAR",
       "filter": "News",
-      "contentType": "channel"
+      "contentType": "channel",
+      "contentList": []
     },
     {
       "id": 4,
       "title": "Music Videos",
       "sectionType": "genres",
+      "railType": "EDITORIAL",
       "filter": "Music",
-      "contentType": "program"
+      "layoutType": "LANDSCAPE",
+      "contentType": "program",
+      "contentList": []
     }
   ],
   "scheduleSlots": {
