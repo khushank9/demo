@@ -153,7 +153,7 @@
       "sectionType": "genres",
       "railType": "EDITORIAL",
       "filter": "Music",
-      "layoutType": "LANDSCAPE",
+      "layoutType": "CIRCULAR",
       "contentType": "program",
       "contentList": []
     }
