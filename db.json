@@ -1,94 +1,47 @@
 {
-  "listChannels": [
+  "bingeScreen":[
     {
       "id": 1,
-      "title": "SET HD",
-      "boxCoverImage": "http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-45-j5fca63k-v2/imageContent-45-j5fca63k-m3.jpg",
-      "posterImage": "http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44-j5fca5bs-v2/imageContent-44-j5fca5bs-m3.jpg",
-      "thumbnailImage": "http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v2/imageContent-43-j5fca4k0-m3.png",
-      "playURL": "https://tataskylinear.pc.cdn.bitgravity.com/delta20/out/i/49.mpd",
-      "licenseURL": "https://tatasky.stage.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000171",
-      "contentType": "LIVE",
-      "genres": [
-        "Entertainment"
-      ],
-      "epgTitle": "Best of Crime Patrol",
-      "startTime": 1612425600000,
-      "endTime": 1612429200000,
-      "description": "Talented comedians from across Maharashtra use satire, skits and sketches to entertain the audience as they compete for the top prize. E99."
-    },
-    {
-      "id": 2,
-      "title": "France 24",
-      "boxCoverImage": "http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-433-j5jsyz6o-v1/imageContent-433-j5jsyz6o-m1.jpg",
-      "posterImage": "http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-434-j5jsyz6o-v1/imageContent-434-j5jsyz6o-m1.jpg",
-      "thumbnailImage": "http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-435-j5jsyz6o-v1/imageContent-435-j5jsyz6o-m1.png",
-      "playURL": "https://tataskylinear.pc.cdn.bitgravity.com/delta20/out/i/49.mpd",
-      "licenseURL": "https://tatasky.stage.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000171",
-      "contentType": "LIVE",
-      "genres": [
-        "News"
-      ],
-      "epgTitle": "News Hour",
-      "startTime": 1612425600000,
-      "endTime": 1612429200000,
-      "description": "Talented comedians from across Maharashtra use satire, skits and sketches to entertain the audience as they compete for the top prize. E99."
-    },
-    {
-      "id": 3,
-      "title": "DD National",
-      "boxCoverImage": "http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-793-j5m7axrc-v1/imageContent-793-j5m7axrc-m1.jpg",
-      "posterImage": "http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-794-j5m7axrc-v1/imageContent-794-j5m7axrc-m1.jpg",
-      "thumbnailImage": "http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-795-j5m7axrc-v1/imageContent-795-j5m7axrc-m1.png",
-      "playURL": "https://tataskylinear.pc.cdn.bitgravity.com/delta20/out/i/49.mpd",
-      "licenseURL": "https://tatasky.stage.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000171",
-      "contentType": "LIVE",
-      "genres": [
-        "Entertainment",
-        "News"
-      ],
-      "epgTitle": "Desh Ki News",
-      "startTime": 1612425600000,
-      "endTime": 1612429200000,
-      "description": "While Susheela is about to audition for a movie in Mumbai, Jagat shows Dharampal a video of her running away from the house. E58."
+      "title": "Popular Apps",
+      "railType": "EDITORIAL",
+      "contentType": "APP_LINK",
+      "layoutType": "LANDSCAPE",
+      "contentList": [
+        {
+          "id": 1594376999812,
+          "title": "Hotstar",
+          "image": "https://tatasky-production-cms.s3.amazonaws.com/cms-ui/images/custom-content/1587465763872",
+          "contentType": "APP_LINK",
+          "packageName": "in.startv.hotstar"
+        },
+        {
+          "id": 1594376999813,
+          "title": "Sony Liv",
+          "image": "https://tatasky-production-cms.s3.amazonaws.com/cms-ui/images/custom-content/1604320742889",
+          "contentType": "APP_LINK",
+          "packageName": "com.sonyliv"
+        },
+        {
+          "id": 1594376999814,
+          "title": "Zee5",
+          "image": "https://tatasky-production-cms.s3.amazonaws.com/cms-ui/images/custom-content/1594008614376",
+          "contentType": "APP_LINK",
+          "packageName": "com.graymatrix.did"
+        },
+        ,
+        {
+          "id": 1594376999815,
+          "title": "Voot Select",
+          "image": "https://tatasky-production-cms.s3.amazonaws.com/cms-ui/images/custom-content/1597293720544",
+          "contentType": "APP_LINK",
+          "packageName": "com.tv.v18.viola"
+        }
+      
+      ]
     }
-  ],
-  "listVOD": [
-    {
-      "id": 1,
-      "title": "chef",
-      "boxCoverImage": "http://tank.tskytech.com/jumpstart/Temp/cdn/HLS/VOD/imageContent-54616-kjy8m2l4-v1/imageContent-54616-kjy8m2l4-m1.jpg",
-      "posterImage": "http://tank.tskytech.com/jumpstart/Temp/cdn/HLS/VOD/imageContent-54617-kjy8m2l4-v1/imageContent-54617-kjy8m2l4-m1.jpg",
-      "thumbnailImage": "http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v2/imageContent-43-j5fca4k0-m3.png",
-      "playURL": "https://delta19tatasky.akamaized.net/out/vod/v1/PKTS2020032310085103_smil/i/24.mpd",
-      "licenseURL": "https://tatasky.stage.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=19379_19694",
-      "contentType": "MOVIES",
-      "genres": [
-        "Comedy"
-      ],
-      "duration": 108,
-      "yearOfRelease": 2017,
-      "genre": "Comedy",
-      "description": "After losing his job, Chef Carl Casper attempts to start afresh by fixing up a food truck."
-    },
-    {
-      "id": 1,
-      "title": "Exorcism",
-      "boxCoverImage": "http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/VOD/imageContent-52955-k9zidr80-v1/imageContent-52955-k9zidr80-m1.jpg",
-      "posterImage": "http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/VOD/imageContent-52956-k9zidr80-v1/imageContent-52956-k9zidr80-m1.jpg",
-      "thumbnailImage": "http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v2/imageContent-43-j5fca4k0-m3.png",
-      "playURL": "https://delta19tatasky.akamaized.net/out/vod/v1/PKTS2020032310085103_smil/i/24.mpd",
-      "licenseURL": "https://tatasky.stage.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=19379_19694",
-      "contentType": "MOVIES",
-      "genres": [
-        "Horror"
-      ],
-      "duration": 108,
-      "yearOfRelease": 2018,
-      "genre": "Comedy",
-      "description": "Did you know that one of the world's top most horror movie - The Exorcism of Emily Rose, is a true story based on a girl names Anneliese Michael who was young and started having troubles in day to day activities and as she grew up, her condition became worst."
-    }
-  ],
+  
+  ]
+  
   "homescreen": [
     {
       "id": 0,
