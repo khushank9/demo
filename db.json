@@ -36,6 +36,56 @@
           "packageName": "com.tv.v18.viola"
         }
       ]
+    },
+    {
+      "id": 2,
+      "title": "Sony Liv Rail",
+      "railType": "EDITORIAL",
+      "contentType": "program",
+      "layoutType": "LANDSCAPE",
+      "contentList": [
+        {
+          "id": 1594376999812,
+          "title": "Aadmi Aur Insaan",
+          "image": "https://origin-staticv2.sonyliv.com/landscape_thumb/Aadmi_Aur_Insaan_1969_Landscape_Thumb.jpg",
+          "contentType": "THIRD_PARTY",
+          "provider": "sonyliv",
+          "deepLinkUrl": "https://www.sonyliv.com/dplnk?schema=sony://asset/1000058965"
+        },
+        {
+          "id": 1594376999812,
+          "title": "After Earth",
+          "image": "https://origin-staticv2.sonyliv.com/landscape_thumb/AFTER_EARTH_landscap_thumb.jpg",
+          "contentType": "THIRD_PARTY",
+          "provider": "sonyliv",
+          "deepLinkUrl": "https://www.sonyliv.com/dplnk?schema=sony://asset/1000052798"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Zee5 Rail",
+      "railType": "EDITORIAL",
+      "contentType": "program",
+      "layoutType": "LANDSCAPE",
+      "contentList": [
+        {
+          "id": 1594376999812,
+          "title": "Seven",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_1920,h_1080,c_scale/resources/0-0-87576/list/seven_1170x658_322168183.jpg",
+          "contentType": "THIRD_PARTY",
+          "provider": "zee5",
+          "deepLinkUrl": "https://www.zee5.com/movies/details/seven/0-0-87576?utm_source=tataskybinge&utm_medium=amazonstick&utm_campaign=zee5campaign&partner=tataskybinge"
+        },
+        {
+          "id": 1594376999812,
+          "title": "Daab Chingri",
+          "image": "https://akamaividz2.zee5.com/image/upload/w_1920,h_1080,c_scale/resources/0-0-85884/list/daabichingri_hindi_1170x65.jpg",
+          "contentType": "THIRD_PARTY",
+          "provider": "zee5",
+          "deepLinkUrl": "https://www.zee5.com/movies/details/daab-chingri/0-0-85884?utm_source=tataskybinge&utm_medium=amazonstick&utm_campaign=zee5campaign&partner=tataskybinge"
+        }
+      ]
     }
   ],
   "homescreen": [
