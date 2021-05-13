@@ -1,5 +1,5 @@
 {
-  "bingeScreen":[
+  "bingeScreen": [
     {
       "id": 1,
       "title": "Popular Apps",
@@ -28,7 +28,6 @@
           "contentType": "APP_LINK",
           "packageName": "com.graymatrix.did"
         },
-        ,
         {
           "id": 1594376999815,
           "title": "Voot Select",
@@ -36,12 +35,9 @@
           "contentType": "APP_LINK",
           "packageName": "com.tv.v18.viola"
         }
-      
       ]
     }
-  
-  ]
-  
+  ],
   "homescreen": [
     {
       "id": 0,
