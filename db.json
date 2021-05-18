@@ -156,5 +156,49 @@
       "contentType": "program",
       "contentList": []
     }
+  ],
+  "liveScreen": [
+    {
+      "id": 1,
+      "title": "All Channels",
+      "sectionType": "ALL",
+      "railType": "EDITORIAL",
+      "filter": "NONE",
+      "contentType": "channel",
+      "layoutType": "LANDSCAPE",
+      "contentList": []
+    },
+    {
+      "id": 3,
+      "title": "News Channels",
+      "sectionType": "genres",
+      "railType": "EDITORIAL",
+      "layoutType": "LANDSCAPE",
+      "filter": "News",
+      "contentType": "channel",
+      "contentList": []
+    }
+  ],
+  "vodScreen": [
+    {
+      "id": 2,
+      "title": "All VOD",
+      "sectionType": "ALL",
+      "railType": "EDITORIAL",
+      "filter": "NONE",
+      "layoutType": "LANDSCAPE",
+      "contentType": "program",
+      "contentList": []
+    },
+    {
+      "id": 4,
+      "title": "Music Videos",
+      "sectionType": "genres",
+      "railType": "EDITORIAL",
+      "filter": "Music",
+      "layoutType": "LANDSCAPE",
+      "contentType": "program",
+      "contentList": []
+    }
   ]
 }
